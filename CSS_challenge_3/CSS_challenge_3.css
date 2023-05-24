@@ -9,3 +9,8 @@ p {
     text-align: left;
     font-style: italic
 }
+
+img {
+    height: 50px;
+    width: 50px;
+}
