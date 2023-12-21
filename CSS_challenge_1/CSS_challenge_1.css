@@ -1,0 +1,12 @@
+body {
+  background-image: linear-gradient(to right top, #ef3b3b, #f56f00, #e0a300, #acd400, #11ff00);
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-weight: font-weight: bold;
+}
+
+a {
+  font-size: 16px
+}
